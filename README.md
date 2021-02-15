@@ -1,4 +1,4 @@
-Created by: Navjot Sahota
+Created by: Navjot
 # hello-world
 Repository used to understand how github works :)
 

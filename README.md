@@ -1,4 +1,5 @@
-Created by: **Navjot**
+Source: https://guides.github.com/activities/hello-world/
+
 # hello-world
 Repository used to understand how github works :)
 

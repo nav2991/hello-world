@@ -1,7 +1,7 @@
 Source: https://guides.github.com/activities/hello-world/
 
 First repository created by Navjot
-# hello-world
+# hello
 Repository used to understand how github works :)
 
 I have created a branch which extends from main, this change is used to see the

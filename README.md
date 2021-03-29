@@ -9,3 +9,6 @@ effects it has on the repository which I will be committing, and then opening an
 Here is some quick code i've written..
 
 print("Hello world, this is Navjot")
+x = 1
+y = 2
+print(x + y)
